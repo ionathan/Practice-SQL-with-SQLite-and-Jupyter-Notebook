@@ -1,0 +1,9 @@
+dependencies:
+  - python
+  - pip
+  - pip:
+    - sqlalchemy
+    - pandas
+    - matplotlib
+    - numpy
+    - ipython-sql
