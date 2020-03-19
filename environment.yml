@@ -1,3 +1,4 @@
+name: ipython-sql-environment
 dependencies:
   - python
   - pip
