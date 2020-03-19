@@ -1,4 +1,8 @@
 # Practice-SQL-with-SQLite-and-Jupyter-Notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ionathan/Practice-SQL-with-SQLite-and-Jupyter-Notebook/master)
+
+
 Practice basic SQL syntax with Jupyter notebook. SQL is particularly useful in handling structured data where there are relations between different entities/variables of the data. SQL is a very important tool for data scientists to have in their repertoire.
 
 In this tutorial, we will practice
